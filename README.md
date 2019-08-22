@@ -34,3 +34,4 @@
 10. https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
 11. http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 12. https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+13. https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf
